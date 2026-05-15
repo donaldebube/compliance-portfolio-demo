@@ -240,7 +240,5 @@ This portfolio project demonstrates capabilities in:
 
 This project was redesigned specifically as a public portfolio demonstration.
 
-All sensitive company information, user data, operational details, authentication layers, and internal references have been removed and replaced with fictional demo data for showcase purposes.
-
 The project demonstrates the ability to design and build operational intelligence systems that solve real-world business problems while maintaining strong attention to usability, scalability, governance visibility, and stakeholder reporting.
 
